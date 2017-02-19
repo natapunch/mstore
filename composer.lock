@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "774b5afaaefef3b8ee5f1bf766dc993c",
+    "content-hash": "ca8bcdcc1828243dd6c26606d8f4ca8e",
+    "packages": [
+        {
+            "name": "mindk/fram",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/natapunch/mfram.git",
+                "reference": "2e45d7300da63bd988580174b749dc86e73189fa"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/natapunch/mfram/zipball/2e45d7300da63bd988580174b749dc86e73189fa",
+                "reference": "2e45d7300da63bd988580174b749dc86e73189fa",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Mindk\\Fram\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "natapunch",
+                    "email": "natapunch7@gmail.com"
+                }
+            ],
+            "description": "FW",
+            "support": {
+                "source": "https://github.com/natapunch/mfram/tree/master",
+                "issues": "https://github.com/natapunch/mfram/issues"
+            },
+            "time": "2017-02-19 01:32:37"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "mindk/fram": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
