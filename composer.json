@@ -1,21 +1,22 @@
 {
-    "name": "mindk/mstore",
-    "description": "application",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "natapunch",
-            "email": "natapunch7@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "mindk/fram": "dev-master"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/natapunch/mfram.git"
-        }
-    ]
+  "name": "mindk/mstore",
+  "description": "application",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "natapunch",
+      "email": "natapunch7@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "mindk/fram": "dev-dev"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "https://github.com/natapunch/mfram.git"
+      // "url": "home/jenn/progects/mfram"
+    }
+  ]
 }

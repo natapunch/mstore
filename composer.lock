@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "774b5afaaefef3b8ee5f1bf766dc993c",
-    "content-hash": "ca8bcdcc1828243dd6c26606d8f4ca8e",
+    "hash": "c750d04a67cc03ce75d5287b9fbcdd02",
+    "content-hash": "40e62c137c96c4f3956676a17fd57350",
     "packages": [
         {
             "name": "mindk/fram",
@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/natapunch/mfram.git",
-                "reference": "2e45d7300da63bd988580174b749dc86e73189fa"
+                "reference": "a4ab81a774c208c580acbf1ce464ab00296195bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/natapunch/mfram/zipball/2e45d7300da63bd988580174b749dc86e73189fa",
-                "reference": "2e45d7300da63bd988580174b749dc86e73189fa",
+                "url": "https://api.github.com/repos/natapunch/mfram/zipball/a4ab81a774c208c580acbf1ce464ab00296195bf",
+                "reference": "a4ab81a774c208c580acbf1ce464ab00296195bf",
                 "shasum": ""
             },
             "type": "library",
@@ -41,7 +41,7 @@
                 "source": "https://github.com/natapunch/mfram/tree/master",
                 "issues": "https://github.com/natapunch/mfram/issues"
             },
-            "time": "2017-02-19 01:32:37"
+            "time": "2017-02-24 15:46:27"
         }
     ],
     "packages-dev": [],
